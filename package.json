@@ -1,0 +1,20 @@
+{
+  "name": "lab5-unit-integration-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@testomatio/reporter": "^2.25.0",
+    "jest": "^29.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.21.1"
+  }
+}
